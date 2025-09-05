@@ -353,7 +353,7 @@ Please confirm availability and share pricing details.`;
               </div>
             </div>
           </section>
-        );
+        );  
 
       case 'testimonials':
         return (
